@@ -1,7 +1,7 @@
-🌱 Spring MVC Complete Learning Project
+## Spring MVC Complete Learning Project
 
-This repository contains a complete Spring MVC learning project covering all major concepts from basic to advanced level.
-The project is created for learning, practice, and interview preparation, following real-world MVC design pattern.
+##This repository contains a complete Spring MVC learning project covering all major concepts from basic to advanced level.
+The project is created for learning, practice, and interview preparation, following a real-world MVC design pattern.
 
 📌 Project Overview
 
@@ -188,4 +188,4 @@ Model
      ↓
 View (JSP)
      ↓
-Browser Response
+Browser Respons
