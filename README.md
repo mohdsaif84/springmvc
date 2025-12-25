@@ -1,9 +1,9 @@
 ## Spring MVC Complete Learning Project
 
-##This repository contains a complete Spring MVC learning project covering all major concepts from basic to advanced level.
+This repository contains a complete Spring MVC learning project covering all major concepts from basic to advanced level.
 The project is created for learning, practice, and interview preparation, following a real-world MVC design pattern.
 
-📌 Project Overview
+## Project Overview
 
 This project demonstrates the complete working of Spring MVC, starting from introduction and setup to form handling, data transfer, redirection, and database-based applications.
 
@@ -17,7 +17,7 @@ How data flows between Controller → View → Model
 
 How real-world Spring MVC applications are built
 
-🛠️ Technologies Used
+## Technologies Used
 
 Java (JDK 8+)
 
@@ -35,7 +35,7 @@ HTML & CSS
 
 Maven (if used)
 
-🧩 Topics Covered in This Project
+## Topics Covered in This Project
 1️⃣ Introduction to Spring MVC
 
 What is Spring MVC
@@ -122,7 +122,7 @@ Submit handling
 
 JSP form design
 
-1️⃣1️⃣ Handling Form using @ModelAttribute
+## Handling Form using @ModelAttribute
 
 Binding form data to Java object
 
@@ -130,7 +130,7 @@ Automatic data mapping
 
 Cleaner controller code
 
-1️⃣2️⃣ User Registration using Spring MVC
+## User Registration using Spring MVC
 
 Complete registration form
 
@@ -140,7 +140,7 @@ Displaying submitted data
 
 Real-world example
 
-1️⃣3️⃣ Completing My Database Application
+## Completing My Database Application
 
 Controller–DAO interaction
 
@@ -150,7 +150,7 @@ Fetching data from database
 
 End-to-end application flow
 
-1️⃣4️⃣ Redirecting in Spring MVC
+## Redirecting in Spring MVC
 
 redirect: keyword
 
@@ -177,7 +177,7 @@ springmvc-project
  │
  └── pom.xml
 
-🔄 Spring MVC Request Flow (Easy Explanation)
+## Spring MVC Request Flow (Easy Explanation)
 User (Browser)
      ↓
 DispatcherServlet
